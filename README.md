@@ -35,7 +35,7 @@ snippet-sage/
 2. Go to `chrome://extensions/`.
 3. Turn on **Developer mode**.
 4. Click **Load unpacked**.
-5. Select the `snippet-sage` folder.
+5. Select the `WebNotes` folder.
 6. Pin the extension from the Chrome toolbar.
 7. Open any website.
 8. Select text and either:
